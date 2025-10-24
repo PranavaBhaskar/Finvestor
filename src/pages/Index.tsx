@@ -161,7 +161,7 @@ const Index = () => {
                 </Button>
               </Link>
               <Link to="/compare">
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                <Button size="lg" variant="outline" className="bg-white text-primary hover:bg-white/90">
                   Compare Investments
                 </Button>
               </Link>
